@@ -1,0 +1,82 @@
+[
+  {
+    "customer_id": "C001",
+    "name": "Anna Lindberg",
+    "city": "Helsinki",
+    "orders": [
+      {
+        "order_id": "A101",
+        "product": "Laptop",
+        "amount": 899.99
+      },
+      {
+        "order_id": "A102",
+        "product": "Mouse",
+        "amount": 24.5
+      }
+    ]
+  },
+  {
+    "customer_id": "C002",
+    "name": "Erik Holm",
+    "city": "Stockholm",
+    "orders": [
+      {
+        "order_id": "A103",
+        "product": "Monitor",
+        "amount": 349.99
+      }
+    ]
+  },
+  {
+    "customer_id": "C003",
+    "name": "Maria Korhonen",
+    "city": "Helsinki",
+    "orders": [
+      {
+        "order_id": "A104",
+        "product": "Keyboard",
+        "amount": 49.99
+      },
+      {
+        "order_id": "A105",
+        "product": "Desk Chair",
+        "amount": 249.99
+      },
+      {
+        "order_id": "A106",
+        "product": "Webcam",
+        "amount": 79.0
+      }
+    ]
+  },
+  {
+    "customer_id": "C004",
+    "name": "Lars Pettersson",
+    "city": "Gothenburg",
+    "orders": [
+      {
+        "order_id": "A107",
+        "product": "Laptop",
+        "amount": 899.99
+      },
+      {
+        "order_id": "A108",
+        "product": "Headphones",
+        "amount": 59.9
+      }
+    ]
+  },
+  {
+    "customer_id": "C005",
+    "name": "Johanna Niemi",
+    "city": "Turku",
+    "orders": [
+      {
+        "order_id": "A109",
+        "product": "Tablet",
+        "amount": 429.0
+      }
+    ]
+  }
+]
